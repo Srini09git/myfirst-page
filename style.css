@@ -1,0 +1,61 @@
+body{
+    background: rgb(58, 56, 56);
+}
+.navbar{
+    background: rgb(58, 56, 56);
+    color: #fff;
+}
+div.cons{
+    padding: 200px 0px;
+    color: aliceblue;
+    text-align: center;
+}
+
+.tx{
+ padding: 100px 0px 10px;
+}
+
+div.tx.p{
+    padding: 5px 0px 80px 0px;
+}
+
+img{
+    
+        width: 500px; 
+        height: 600px; 
+        object-fit: cover;
+        align-items: center;
+        padding: 50px 0px;
+        
+}
+.conz{
+    text-align: center;
+    color: aliceblue;
+    padding: 20px;
+    margin: 20px;
+}
+
+.bt{
+    padding: 10px 20px;
+}
+
+
+h2 {
+   width: 100%; 
+   text-align: center; 
+   border-bottom: 1px solid #000; 
+   line-height: 0.1em;
+   margin: 10px 5px 50px; 
+   padding-top: 50px;
+   border: 20px;
+} 
+
+h2 span { 
+    background:#fff; 
+    padding:0 10px;
+    align-items: flex-end; 
+}
+
+.aw{
+ margin: 10px 10px;
+}
